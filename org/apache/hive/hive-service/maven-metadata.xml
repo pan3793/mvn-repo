@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.hive</groupId>
+  <artifactId>hive-service</artifactId>
+  <versioning>
+    <versions>
+      <version>2.3.10-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230812170729</lastUpdated>
+  </versioning>
+</metadata>
