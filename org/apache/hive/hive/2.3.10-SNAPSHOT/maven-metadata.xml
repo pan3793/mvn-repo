@@ -3,16 +3,16 @@
   <groupId>org.apache.hive</groupId>
   <artifactId>hive</artifactId>
   <versioning>
-    <lastUpdated>20230812170729</lastUpdated>
+    <lastUpdated>20230814052425</lastUpdated>
     <snapshot>
-      <timestamp>20230812.170729</timestamp>
-      <buildNumber>4</buildNumber>
+      <timestamp>20230814.052425</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.3.10-20230812.170729-4</value>
-        <updated>20230812170729</updated>
+        <value>2.3.10-20230814.052425-1</value>
+        <updated>20230814052425</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
