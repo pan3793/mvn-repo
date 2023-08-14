@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.hive</groupId>
+  <artifactId>hive-hplsql</artifactId>
+  <versioning>
+    <lastUpdated>20230814052425</lastUpdated>
+    <snapshot>
+      <timestamp>20230814.052425</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.3.10-20230814.052425-1</value>
+        <updated>20230814052425</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.3.10-20230814.052425-1</value>
+        <updated>20230814052425</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.3.10-SNAPSHOT</version>
+</metadata>
